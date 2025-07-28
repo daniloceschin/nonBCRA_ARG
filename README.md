@@ -134,11 +134,11 @@ This study was conducted in accordance with the Declaration of Helsinki and appr
 
 If you use this code or data in your research, please cite:
 
-> Martin CA, Bono C, Mandrile J, et al. PALB2 Founder Variant and High Non-BRCA Pathogenic Variant Prevalence with Clinical Implications in Córdoba, Argentina. *Journal of Medical Genetics*. 2025. [DOI pending]
+......
 
 ## License
 
-This work is licensed under [specify license - typically MIT or Creative Commons].
+This work is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
