@@ -1,0 +1,4 @@
+"comparison","observed_freq","reference_freq","sample_size","statistical_power"
+"PALB2 vs European",0.0459363957597173,0.012,283,0.999486741708203
+"PALB2 c.1653T>A vs Global",0.0176678445229682,2e-04,283,1
+"Non-BRCA vs European",0.113074204946996,0.065,283,0.906675551630548
