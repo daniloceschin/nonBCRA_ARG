@@ -13,6 +13,9 @@ This repository contains the statistical analysis code and supplementary materia
 - Christine Susana Mercedes Kunst¹
 - Adriana Elizabeth Borello¹
 - Rodolfo Ávila¹
+- Florencia Celeste Salazar¹
+- Virginia Miretti¹,²
+- Florencia Pabletich¹,²
 - Verónica Andreoli¹*
 - Danilo Guillermo Ceschin¹,²,³*
 
